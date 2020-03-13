@@ -7,8 +7,8 @@ The image allows to run Archi command line. It as the Collaboration Plugin.
 
 ## Version
 
- - Archi : `4.4.0`
- - Collaboration Plugin : `0.5.1.201904031126`
+ - Archi : `4.7.0 ea2`
+ - Collaboration Plugin : `0.5.4.202002281020`
 
 ## Usage
 
